@@ -4,3 +4,7 @@ In this paper, we propose single pass supergraph based periodic pattern mining S
 If you use this model/implemenation in your research work please cite the following paper.
 
  Sajal Halder, Md. Samiullah and Young-Koo Lee. Supergraph based Periodic Patterns Mining in Dynamic Social Networks. Expert Systems with Applications-An International Journal. volume 72, pages 430-442, 2017
+ 
+ # Implementation
+ 
+ We have implement this SPPMiner model in C/C++ and Java Code. 
