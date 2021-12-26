@@ -7,4 +7,4 @@ If you use this model/implemenation in your research work please cite the follow
  
  # Implementation
  
- We have implement this SPPMiner model in C/C++ and Java Code. 
+ We have implement this SPPMiner model in C/C++ and Java programming language. 
